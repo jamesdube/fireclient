@@ -1,0 +1,7 @@
+{
+  "name": "FireClient",
+  "version": "0.0.1",
+  "dependencies": {
+    "firebase": "^3.6.4"
+  }
+}
